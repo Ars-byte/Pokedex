@@ -21,8 +21,6 @@ Sleek Matcha Theme: Enjoy a calming and stylish "matcha" green aesthetic through
 
 Quick Refresh: A handy Pokéball-themed button lets you instantly reload the full Pokédex. 🔄
 
-Responsive Design: Looks great on desktops, tablets, and mobile devices. 📱💻
-
 Pokéball Favicon: Custom Pokéball icon for your browser tab!
 
 ## 🛠️ Tech Stack:
@@ -59,8 +57,6 @@ Sprites Oficiales: Utiliza los sprites frontales oficiales de la PokeAPI.
 Elegante Tema Matcha: Disfruta de una estética "matcha" verde, relajante y con estilo, en toda la interfaz. 💚
 
 Refresco Rápido: Un práctico botón con tema de Pokéball te permite recargar instantáneamente la Pokédex completa. 🔄
-
-Diseño Responsivo: Se ve genial en ordenadores de escritorio, tabletas y dispositivos móviles. 📱💻
 
 Favicon de Pokéball: ¡Icono de Pokéball personalizado para la pestaña de tu navegador!
 
