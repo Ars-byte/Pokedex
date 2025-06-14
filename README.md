@@ -1,73 +1,45 @@
-### 🇬🇧 English Description
-🍵 Matcha-Themed Pokédex
+### Español (ES) 🇪🇸:
 
-Welcome to my custom-built Pokédex! This is a fun, interactive web application that lets you browse and search for Pokémon from the first three generations (Kanto, Johto, and Hoenn - up to #386). Built with vanilla JavaScript, HTML, and CSS, it's a nostalgic trip for any Pokémon fan.
+Un Pokédex web interactivo desarrollado con HTML, CSS y JavaScript puro. Permite a los usuarios explorar Pokémon de las primeras cinco generaciones (hasta el #649), obtenidos dinámicamente de la PokéAPI.
 
-## ✨ Features:
+## Características Principales:
 
-Browse Generations: Easily switch between viewing Pokémon from Generation 1, 2, or 3 using dedicated filter buttons. 🔢
+    Visualización de Pokémon con detalles como estadísticas, tipos e ID.
 
-Dynamic Search: Quickly find your favorite Pokémon by typing its name or National Pokédex number. 🔍
+    Funcionalidad de búsqueda por nombre o número de Pokédex.
 
-Vibrant Pokémon Cards: Each Pokémon is displayed on a beautifully styled card.
+    Filtros para mostrar Pokémon por generación (1ª a 5ª).
 
-Type-Based Backgrounds: Cards feature dynamic backgrounds that change color based on the Pokémon's primary (and secondary) type! 🔥💧🌿⚡
+    Interruptor para modo oscuro que mejora la experiencia visual.
 
-Essential Stats: See key stats like HP, Attack, Defense, Special Attack, Special Defense, and Speed. 📊
+    Selector de idioma para la interfaz (Español/Inglés).
 
-Official Sprites: Uses official front sprites from the PokeAPI.
+    Tarjetas de Pokémon con colores de fondo dinámicos basados en su tipo primario.
 
-Sleek Matcha Theme: Enjoy a calming and stylish "matcha" green aesthetic throughout the interface. 💚
+    Diseño responsivo para una correcta visualización en diversos dispositivos.
 
-Quick Refresh: A handy Pokéball-themed button lets you instantly reload the full Pokédex. 🔄
+    Interfaz de usuario con una agradable temática "matcha".
 
-Pokéball Favicon: Custom Pokéball icon for your browser tab!
+### English (EN) 🇬🇧:
 
-## 🛠️ Tech Stack:
+An interactive web-based Pokédex built with vanilla HTML, CSS, and JavaScript. It allows users to explore Pokémon from the first five generations (up to #649), dynamically fetched from the PokéAPI.
 
-HTML5
+## Key Features:
 
-CSS3 (with CSS Variables for theming)
+    Displays Pokémon with details such as stats, types, and ID.
 
-Vanilla JavaScript (ES6+)
+    Search functionality by name or National Pokédex number.
 
-PokeAPI for all Pokémon data.
+    Generation filters to display Pokémon from specific generations (1st to 5th).
 
-This project was a great way to practice frontend skills, API integration, and creating a user-friendly interface. Feel free to explore the code and see how it works!
+    Toggleable Dark Mode for an enhanced viewing experience.
 
-### 🇪🇸 Descripción en Español
-🍵 Pokédex con Tema Matcha
+    Language switcher for the user interface (English/Spanish).
 
-¡Bienvenido/a a mi Pokédex personalizada! Esta es una aplicación web divertida e interactiva que te permite explorar y buscar Pokémon de las primeras tres generaciones (Kanto, Johto y Hoenn - hasta el #386). Construida con JavaScript puro, HTML y CSS, es un viaje nostálgico para cualquier fan de Pokémon.
+    Pokémon cards with dynamic background colors based on their primary type.
 
-## ✨ Características:
+    Responsive design for optimal viewing across various devices.
 
-Explora por Generación: Cambia fácilmente entre Pokémon de la 1ª, 2ª o 3ª generación usando los botones de filtro. 🔢
+    Pleasant "matcha-themed" user interface.
 
-Búsqueda Dinámica: Encuentra rápidamente a tu Pokémon favorito escribiendo su nombre o número de la Pokédex Nacional. 🔍
 
-Tarjetas de Pokémon Vibrantes: Cada Pokémon se muestra en una tarjeta con un diseño atractivo.
-
-Fondos Basados en el Tipo: ¡Las tarjetas tienen fondos dinámicos que cambian de color según el tipo primario (y secundario) del Pokémon! 🔥💧🌿⚡
-
-Estadísticas Esenciales: Consulta estadísticas clave como PS, Ataque, Defensa, Ataque Especial, Defensa Especial y Velocidad. 📊
-
-Sprites Oficiales: Utiliza los sprites frontales oficiales de la PokeAPI.
-
-Elegante Tema Matcha: Disfruta de una estética "matcha" verde, relajante y con estilo, en toda la interfaz. 💚
-
-Refresco Rápido: Un práctico botón con tema de Pokéball te permite recargar instantáneamente la Pokédex completa. 🔄
-
-Favicon de Pokéball: ¡Icono de Pokéball personalizado para la pestaña de tu navegador!
-
-## 🛠️ Tecnologías Utilizadas:
-
-HTML5
-
-CSS3 (con Variables CSS para el tema)
-
-JavaScript Puro (ES6+)
-
-PokeAPI para todos los datos de Pokémon.
-
-Este proyecto fue una excelente manera de practicar habilidades de frontend, integración con APIs y la creación de una interfaz amigable para el usuario. ¡Siéntete libre de explorar el código y ver cómo funciona!
