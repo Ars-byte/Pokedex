@@ -1,5 +1,5 @@
 ### 🇬🇧 English Description
-🍵 Matcha-Themed Pokédex ϞϞ(๑⚈ ․̫ ⚈๑)✌
+🍵 Matcha-Themed Pokédex
 
 Welcome to my custom-built Pokédex! This is a fun, interactive web application that lets you browse and search for Pokémon from the first three generations (Kanto, Johto, and Hoenn - up to #386). Built with vanilla JavaScript, HTML, and CSS, it's a nostalgic trip for any Pokémon fan.
 
@@ -36,7 +36,7 @@ PokeAPI for all Pokémon data.
 This project was a great way to practice frontend skills, API integration, and creating a user-friendly interface. Feel free to explore the code and see how it works!
 
 ### 🇪🇸 Descripción en Español
-🍵 Pokédex con Tema Matcha ϞϞ(๑⚈ ․̫ ⚈๑)✌
+🍵 Pokédex con Tema Matcha
 
 ¡Bienvenido/a a mi Pokédex personalizada! Esta es una aplicación web divertida e interactiva que te permite explorar y buscar Pokémon de las primeras tres generaciones (Kanto, Johto y Hoenn - hasta el #386). Construida con JavaScript puro, HTML y CSS, es un viaje nostálgico para cualquier fan de Pokémon.
 
