@@ -1,4 +1,5 @@
-https://github.com/user-attachments/assets/2b68db2c-7f53-4c88-a83d-43615820e69a
+
+https://github.com/user-attachments/assets/8e94618f-6cf9-4d4f-b337-60f7b29152c3
 
 
 ### Español (ES) 🇪🇸:
@@ -6,6 +7,7 @@ https://github.com/user-attachments/assets/2b68db2c-7f53-4c88-a83d-43615820e69a
 Una Pokédex web interactiva desarrollada con HTML, CSS y JavaScript puro. Permite a los usuarios explorar Pokémon de las primeras cinco generaciones (hasta el #649), obtenidos dinámicamente de la PokéAPI.
 
 ## Características Principales:
+
 
     Visualización de Pokémon con detalles como estadísticas, tipos e ID.
 
